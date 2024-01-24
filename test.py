@@ -7,7 +7,6 @@ from app.py import (
 )
 
 
-
 class TestMathFunctions(unittest.TestCase):
     def test_add_numbers(self):
         self.assertEqual(add_numbers(5, 3), 8)
