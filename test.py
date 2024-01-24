@@ -1,5 +1,5 @@
 import unittest
-from app.py import (
+from app import (
     add_numbers,
     subtract_numbers,
     multiply_numbers,
